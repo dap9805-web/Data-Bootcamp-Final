@@ -36,7 +36,7 @@ This final dataset structure supports both cross sectional learning across stock
 
 ### Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](images/feature_importance.PNG)
 
 ---
 
@@ -55,15 +55,15 @@ Visual diagnostics are used to supplement numeric metrics. Confusion matrices ar
 
 ### Model Comparison Table
 
-![Model Comparison Table](images/model_comparison.png)
+![Model Comparison Table](images/model_comparison.PNG)
 
 ### Confusion Matrices
 
-![Confusion Matrices](images/confusion_matrices.png)
+![Confusion Matrices](images/confusion_matrices.PNG)
 
 ### ROC Curves
 
-![ROC Curves](images/roc_curves.png)
+![ROC Curves](images/roc_curves.PNG)
 
 ---
 
@@ -80,7 +80,7 @@ An earlier version of this project attempted to execute trades through the Tradi
 
 ### Strategy Performance
 
-![Equity Curve](images/equity_curve.png)
+![Equity Curve](images/equity_curve.PNG)
 
 ---
 
@@ -97,11 +97,11 @@ Risk adjusted performance is evaluated using daily returns derived from the equi
 
 ### Open Positions & Realized Winners and Losers
 
-![Open Positions](images/positions_tables.png)
+![Open Positions](images/positions_tables.PNG)
 
 ### Risk Adjusted Performance
 
-![Sharpe](images/sharpe.png)
+![Sharpe](images/sharpe.PNG)
 
 ---
 
